@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "flannel",
+    "name": "Flannel",
+    "description": "Flannel is an etcd backed overlay network for containers",
+    "url": "https://github.com/coreos/flannel",
+    "tags": [
+      "linux",
+      "open-source",
+      "virt",
+      "cloud-paas",
+      "orchestration",
+      "service-discovery",
+      "go"
+    ]
+  }
+]
